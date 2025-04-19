@@ -1,15 +1,8 @@
 {
   "name": "Aden ve Babası",
-  "short_name": "Kitaplık",
-  "start_url": "index.html",
-  "display": "standalone",
-  "background_color": "#fff8f0",
   "theme_color": "#fff3e0",
-  "icons": [
-    {
-      "src": "kapak.jpg",
-      "sizes": "192x192",
-      "type": "image/jpeg"
-    }
-  ]
+  "background_color": "#fff8f0",
+  "short_name": "Kitaplık",
+  "id": "/kitaplık",
+  "description": "Bu uygulama Aden ve babasının sevgi dolu hikayesini anlatır. Masalsı bir kitaplık deneyimi sunar."
 }
