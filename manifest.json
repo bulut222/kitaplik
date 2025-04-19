@@ -1,8 +1,21 @@
 {
-  "name": "Aden ve Babası",
-  "theme_color": "#fff3e0",
-  "background_color": "#fff8f0",
-  "short_name": "Kitaplık",
-  "id": "/kitaplık",
-  "description": "Bu uygulama Aden ve babasının sevgi dolu hikayesini anlatır. Masalsı bir kitaplık deneyimi sunar."
+  "name": "Kitaplık",
+  "short_name": "Kitaplar",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "Aden ve Ahsen'in masalsı kitap uygulaması.",
+  "icons": [
+    {
+      "src": "icon192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
